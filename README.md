@@ -1,5 +1,5 @@
 # CapStone
-Assessing the Feasibility and Environmental Impact of Replacing Coal Power Plants with Nuclear Energy in India
+**Assessing the Feasibility and Environmental Impact of Replacing Coal Power Plants with Nuclear Energy in India**
 
 Project Description
 This project evaluates the feasibility, environmental, and socio-economic impacts of transitioning from coal-based power generation to nuclear energy in India. The analysis involves cost-benefit evaluations, regional economic effects, emission reductions, and energy production reliability. Using simulations and models based on validated data from government and international sources, the study provides actionable insights for a sustainable energy transition.
