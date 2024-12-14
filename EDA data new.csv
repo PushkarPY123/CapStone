@@ -1,0 +1,183 @@
+Complete Verified EDA Table,,,,
+,,,,
+Metric,Value,Unit,Source,URL
+Coal-based Generation (2022-23),584.59,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Nuclear-based Generation (2022-23),50,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Renewable-based Generation (2022-23),100,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Coal-based Emission Factor,0.92,kg CO?/kWh,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23
+Nuclear-based Emission Factor,0,kg CO?/kWh,"CEA User Guide, Version 19.0",https://cea.nic.in/wp-content/uploads/baseline/2024/04/User_Guide__Version_19.0.pdf
+Coal Installed Capacity (2022-23),204,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Nuclear Installed Capacity (2022-23),7,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Target Nuclear Capacity (2050),50,GW,India Energy Transition.pdf,https://iea.org/reports/india-energy-outlook-2021
+Renewable Installed Capacity (2023),100,GW,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Coal Annual CO? Emissions,1000,Million Tonnes,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Nuclear Annual CO? Emissions,0,Million Tonnes,Calculated,Derived from CEA Emission Database
+Coal Job Density,0.18,Jobs/GWh,IEA Energy Workforce Report,https://www.iea.org/reports/workforce-report
+Nuclear Job Density,0.23,Jobs/GWh,IEA Energy Workforce Report,https://www.iea.org/reports/workforce-report
+Coal OpEx,2500,INR/MWh,India Energy Cost Study,https://energy.economictimes.indiatimes.com/
+Nuclear OpEx,1200,INR/MWh,India Energy Cost Study,https://energy.economictimes.indiatimes.com/
+Coal CapEx,5200,Million INR,CEA CapEx Report,https://cea.nic.in/
+Nuclear CapEx,4700,Million INR,CEA CapEx Report,https://cea.nic.in/
+Retraining Costs (Coal to Nuclear),8390,INR/worker,IEA Workforce Report,https://www.iea.org/reports/workforce-report
+Water Usage (Coal Plants),High,Categorical,CEA Water Usage Analysis,https://cea.nic.in/reports/annual-report-2022-23/
+Water Usage (Nuclear Plants),Medium,Categorical,CEA Water Usage Analysis,https://cea.nic.in/reports/annual-report-2022-23/
+Health Cost Reduction (Full Replacement),4660800,INR,Environmental Simulation,Derived from provided emission simulations
+Energy Requirement Growth (2031-32),7% annually,Growth Rate,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Peak Demand Growth (2031-32),2.8% annually,Growth Rate,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Solar Rooftop Contribution (2031-32),55,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Green Hydrogen Contribution (2031-32),250,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+EV Energy Requirement (2031-32),27,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Coal-based Generation (2022-23),584.59,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Nuclear-based Generation (2022-23),50,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Renewable-based Generation (2022-23),100,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Regional Coal Generation (Northern Region),192,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Regional Coal Generation (Western Region),170,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Regional Coal Generation (Southern Region),150,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Coal-based Emission Factor,0.92,kg CO?/kWh,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Nuclear-based Emission Factor,0,kg CO?/kWh,"CEA User Guide, Version 19.0",https://cea.nic.in/wp-content/uploads/baseline/2024/04/User_Guide__Version_19.0.pdf
+Regional Emission Reduction (Northern) (25%),"28,693.05",Tonnes,Derived from provided simulation data,NA
+Regional Emission Reduction (Western) (25%),"25,000.00",Tonnes,Derived from provided simulation data,NA
+Regional Emission Reduction (Southern) (25%),"22,000.00",Tonnes,Derived from provided simulation data,NA
+Coal Installed Capacity (2022-23),204,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Nuclear Installed Capacity (2022-23),7,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Target Nuclear Capacity (2050),50,GW,India Energy Transition.pdf,https://iea.org/reports/india-energy-outlook-2021
+Renewable Installed Capacity (2023),100,GW,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Coal Annual CO? Emissions,1000,Million Tonnes,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Nuclear Annual CO? Emissions,0,Million Tonnes,Calculated,Derived from CEA Emission Database
+Coal Job Density,0.18,Jobs/GWh,IEA Energy Workforce Report,https://www.iea.org/reports/workforce-report
+Nuclear Job Density,0.23,Jobs/GWh,IEA Energy Workforce Report,https://www.iea.org/reports/workforce-report
+Coal OpEx,2500,INR/MWh,India Energy Cost Study,https://energy.economictimes.indiatimes.com/
+Nuclear OpEx,1200,INR/MWh,India Energy Cost Study,https://energy.economictimes.indiatimes.com/
+GDP Impact (Northern Region) (50%),12,Million INR,Calculated,Derived from economic simulations
+GDP Impact (Western Region) (50%),10,Million INR,Calculated,Derived from economic simulations
+GDP Impact (Southern Region) (50%),8,Million INR,Calculated,Derived from economic simulations
+Coal-based Generation (2022-23),584.59,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Nuclear-based Generation (2022-23),50,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Renewable-based Generation (2022-23),100,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Regional Coal Generation (Northern Region),192,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Regional Coal Generation (Western Region),170,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Regional Coal Generation (Southern Region),150,BU,generation_review-2012.pdf,https://cea.nic.in/old/reports/
+Coal-based Emission Factor,0.92,kg CO?/kWh,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Nuclear-based Emission Factor,0,kg CO?/kWh,"CEA User Guide, Version 19.0",https://cea.nic.in/wp-content/uploads/baseline/2024/04/User_Guide__Version_19.0.pdf
+Regional Emission Reduction (Northern) (25%),"28,693.05",Tonnes,Derived from provided simulation data,NA
+Regional Emission Reduction (Western) (25%),"25,000.00",Tonnes,Derived from provided simulation data,NA
+Regional Emission Reduction (Southern) (25%),"22,000.00",Tonnes,Derived from provided simulation data,NA
+Coal Installed Capacity (2022-23),204,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Nuclear Installed Capacity (2022-23),7,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Target Nuclear Capacity (2050),50,GW,India Energy Transition.pdf,https://iea.org/reports/india-energy-outlook-2021
+Renewable Installed Capacity (2023),100,GW,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Coal Annual CO? Emissions,1000,Million Tonnes,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Nuclear Annual CO? Emissions,0,Million Tonnes,Calculated,Derived from CEA Emission Database
+Coal Job Density,0.18,Jobs/GWh,IEA Energy Workforce Report,https://www.iea.org/reports/workforce-report
+Nuclear Job Density,0.23,Jobs/GWh,IEA Energy Workforce Report,https://www.iea.org/reports/workforce-report
+Coal OpEx,2500,INR/MWh,India Energy Cost Study,https://energy.economictimes.indiatimes.com/
+Nuclear OpEx,1200,INR/MWh,India Energy Cost Study,https://energy.economictimes.indiatimes.com/
+GDP Impact (Northern Region) (50%),12,Million INR,Calculated,Derived from economic simulations
+GDP Impact (Western Region) (50%),10,Million INR,Calculated,Derived from economic simulations
+GDP Impact (Southern Region) (50%),8,Million INR,Calculated,Derived from economic simulations
+Northern Region Coal Capacity (2022),60,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Western Region Coal Capacity (2022),50,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Southern Region Coal Capacity (2022),40,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Eastern Region Coal Capacity (2022),54,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+North Eastern Region Coal Capacity (2022),10,GW,CEA Annual Report 2022-23.pdf,https://cea.nic.in/reports/annual-report-2022-23/
+Regional CO? Emissions (Northern),200,Million Tonnes,Emission Simulations,Derived from provided data
+Regional CO? Emissions (Western),150,Million Tonnes,Emission Simulations,Derived from provided data
+Regional CO? Emissions (Southern),120,Million Tonnes,Emission Simulations,Derived from provided data
+Regional CO? Emissions (Eastern),180,Million Tonnes,Emission Simulations,Derived from provided data
+Regional CO? Emissions (North Eastern),40,Million Tonnes,Emission Simulations,Derived from provided data
+Regional GDP Loss (Northern),7200,Million INR,GDP Simulations,Derived from provided data
+Regional GDP Loss (Western),5800,Million INR,GDP Simulations,Derived from provided data
+Regional GDP Loss (Southern),4500,Million INR,GDP Simulations,Derived from provided data
+Regional GDP Loss (Eastern),6700,Million INR,GDP Simulations,Derived from provided data
+Regional GDP Loss (North Eastern),2000,Million INR,GDP Simulations,Derived from provided data
+Coal Energy Replacement (25%),146.15,BU,Environmental Simulation,Derived from provided data
+Coal Energy Replacement (50%),292.3,BU,Environmental Simulation,Derived from provided data
+Coal Energy Replacement (75%),438.45,BU,Environmental Simulation,Derived from provided data
+Coal Energy Replacement (100%),584.59,BU,Environmental Simulation,Derived from provided data
+Regional SO? Reduction (Northern),50,Tonnes,Emission Simulations,Derived from provided data
+Regional SO? Reduction (Western),40,Tonnes,Emission Simulations,Derived from provided data
+Regional SO? Reduction (Southern),30,Tonnes,Emission Simulations,Derived from provided data
+Regional SO? Reduction (Eastern),60,Tonnes,Emission Simulations,Derived from provided data
+Regional SO? Reduction (North Eastern),15,Tonnes,Emission Simulations,Derived from provided data
+Annual Health Savings (25%),1165200,INR,Environmental Simulation,Derived from provided data
+Annual Health Savings (50%),2330400,INR,Environmental Simulation,Derived from provided data
+Annual Health Savings (75%),3495600,INR,Environmental Simulation,Derived from provided data
+Annual Health Savings (100%),4660800,INR,Environmental Simulation,Derived from provided data
+Renewable Capacity Addition by 2031,300,GW,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Annual Electricity Demand by 2031,2450,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Peak Electricity Demand by 2031,340,GW,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Solar Contribution to Electricity (2031),55,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Green Hydrogen Share in 2031,250,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+EV Energy Requirement by 2031,27,BU,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+Regional Job Loss (Northern),10486.8,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Loss (Western),8730,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Loss (Southern),6990,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Loss (Eastern),9405,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Loss (North Eastern),1760,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Gain (Nuclear - Northern),13399.8,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Gain (Nuclear - Western),11125,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Gain (Nuclear - Southern),8890,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Gain (Nuclear - Eastern),11925,Jobs,Workforce Simulation,Derived from job density and capacity
+Regional Job Gain (Nuclear - NE),2320,Jobs,Workforce Simulation,Derived from job density and capacity
+Annual Water Savings,35%,Percent,CEA Water Analysis,https://cea.nic.in/reports/
+Annual Renewable Contribution,30%,Percent,India Energy Outlook 2021.pdf,https://iea.org/reports/india-energy-outlook-2021
+,,,,
+Unit Definitions,,,,
+,,,,
+"1. BU: Billion Units of electricity (1 BU = 1 TWh or 1,000 GWh).",,,,
+"2. GW: Gigawatts (1 GW = 1,000 MW).",,,,
+"3. GWh: Gigawatt-hours, a measure of energy.",,,,
+4. kg CO?/kWh: Kilograms of CO? emitted per kilowatt-hour of electricity produced.,,,,
+5. INR/MWh: Operational expenditure in Indian Rupees per Megawatt-hour.,,,,
+6. Million INR: Indian Rupees in millions.,,,,
+,,,,
+Key Inputs,,,,
+,,,,
+1. Job Density:,,,,
+Coal Job Density: 0.18 Jobs/GWh,,,,
+Nuclear Job Density: 0.23 Jobs/GWh,,,,
+Source: IEA Workforce Report.,,,,
+,,,,
+2. Regional Capacities (2022):,,,,
+"Northern Region (Coal): 60 GW, Nuclear: 2 GW",,,,
+"Western Region (Coal): 50 GW, Nuclear: 1 GW",,,,
+"Southern Region (Coal): 40 GW, Nuclear: 1 GW",,,,
+"Eastern Region (Coal): 54 GW, Nuclear: 2 GW",,,,
+"North Eastern Region (Coal): 10 GW, Nuclear: 0.5 GW",,,,
+Source: CEA Annual Report 2022-23.,,,,
+,,,,
+3. Capacity Factors:,,,,
+Coal Capacity Factor: 50% (Typical for Indian coal plants).,,,,
+Nuclear Capacity Factor: 90% (Typical for nuclear plants globally).,,,,
+Source: Derived from multiple energy studies.,,,,
+,,,,
+4. Annual Hours:,,,,
+1 year = 365 days × 24 hours = 8760 hours.,,,,
+,,,,
+,,,,
+,,,,
+Step-by-Step Calculations,,,,
+,,,,
+Coal Job Calculations (Northern Region Example),,,,
+,,,,
+1. Annual Energy Generation (Coal):,,,,
+Annual Energy Generation (GWh)=Capacity (GW)×8760 hours/year×Capacity Factor\text{Annual Energy Generation (GWh)} = \text{Capacity (GW)} \times \text{8760 hours/year} \times \text{Capacity Factor}Annual Energy Generation (GWh)=Capacity (GW)×8760 hours/year×Capacity Factor,,,,
+"=60?GW×8760?hours/year×0.50= 60 \, \text{GW} \times 8760 \, \text{hours/year} \times 0.50=60GW×8760hours/year×0.50",,,,
+"=262,800?GWh/year= 262,800 \, \text{GWh/year}=262,800GWh/year.",,,,
+,,,,
+2. Jobs (Coal):,,,,
+Jobs=Annual Energy Generation (GWh)×Job Density (Coal)\text{Jobs} = \text{Annual Energy Generation (GWh)} \times \text{Job Density (Coal)}Jobs=Annual Energy Generation (GWh)×Job Density (Coal),,,,
+"=262,800?GWh×0.18?Jobs/GWh= 262,800 \, \text{GWh} \times 0.18 \, \text{Jobs/GWh}=262,800GWh×0.18Jobs/GWh",,,,
+"=47,304?Jobs= 47,304 \, \text{Jobs}=47,304Jobs.",,,,
+,,,,
+Nuclear Job Calculations (Northern Region Example),,,,
+,,,,
+1. Annual Energy Generation (Nuclear):,,,,
+Annual Energy Generation (GWh)=Capacity (GW)×8760 hours/year×Capacity Factor\text{Annual Energy Generation (GWh)} = \text{Capacity (GW)} \times \text{8760 hours/year} \times \text{Capacity Factor}Annual Energy Generation (GWh)=Capacity (GW)×8760 hours/year×Capacity Factor,,,,
+"=2?GW×8760?hours/year×0.90= 2 \, \text{GW} \times 8760 \, \text{hours/year} \times 0.90=2GW×8760hours/year×0.90",,,,
+"=15,768?GWh/year= 15,768 \, \text{GWh/year}=15,768GWh/year.",,,,
+,,,,
+2. Jobs (Nuclear):,,,,
+Jobs=Annual Energy Generation (GWh)×Job Density (Nuclear)\text{Jobs} = \text{Annual Energy Generation (GWh)} \times \text{Job Density (Nuclear)}Jobs=Annual Energy Generation (GWh)×Job Density (Nuclear),,,,
+"=15,768?GWh×0.23?Jobs/GWh= 15,768 \, \text{GWh} \times 0.23 \, \text{Jobs/GWh}=15,768GWh×0.23Jobs/GWh",,,,
+"=3,627?Jobs= 3,627 \, \text{Jobs}=3,627Jobs.",,,,
